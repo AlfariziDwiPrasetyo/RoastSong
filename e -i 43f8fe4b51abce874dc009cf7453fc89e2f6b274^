@@ -1,0 +1,47 @@
+[33mcommit 92f9a573f393dc25c1b1e649edfed3ba033f4c33[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Ryuugamine <yoerdanatan@gmail.com>
+Date:   Fri Aug 9 07:36:14 2024 +0700
+
+    fix unknown artist
+
+[33mcommit 586394edab16478b7a00259c2df2772632789600[m
+Author: Ryuugamine <yoerdanatan@gmail.com>
+Date:   Fri Aug 9 07:16:30 2024 +0700
+
+    fix selectedSong
+
+[33mcommit d1a92d3690afdb8b3eb84a106d85651cd4c38ba9[m
+Author: Ryuugamine <yoerdanatan@gmail.com>
+Date:   Fri Aug 9 07:04:18 2024 +0700
+
+    add metadata
+
+[33mcommit 4a8cbd93674a2f9b8ebe7c4baa1304ad0263c836[m
+Author: Ryuugamine <yoerdanatan@gmail.com>
+Date:   Fri Aug 9 06:55:30 2024 +0700
+
+    fix text
+
+[33mcommit 10cf9cfc71cabd63f895f79c15e4ad60f53bcbfc[m
+Author: Ryuugamine <yoerdanatan@gmail.com>
+Date:   Fri Aug 9 06:47:58 2024 +0700
+
+    fix something
+
+[33mcommit b9f9d3bbf928f5bdc4aaab0d0131265b8a1398e9[m
+Author: Ryuugamine <yoerdanatan@gmail.com>
+Date:   Fri Aug 9 06:45:10 2024 +0700
+
+    fix submitbutton
+
+[33mcommit 6f63e9317df19d9fbef7760ad8636c0b64f0b615[m
+Author: Ryuugamine <yoerdanatan@gmail.com>
+Date:   Fri Aug 9 06:28:28 2024 +0700
+
+    first commit
+
+[33mcommit 43f8fe4b51abce874dc009cf7453fc89e2f6b274[m
+Author: Ryuugamine <yoerdanatan@gmail.com>
+Date:   Wed Aug 7 17:12:19 2024 +0700
+
+    Initial commit from Create Next App
